@@ -1,0 +1,42 @@
+CASE 1
+201
+FasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaa
+
+
+ERROR
+CASE 2
+42
+123aasfd df a fda sdf adfu9a0ef {((()))[]}
+
+
+ERROR
+CASE 3
+5
+86()23{}[
+
+
+ERROR
+CASE 4
+12
+(12a)[9n}45)[
+
+
+false
+CASE 5
+5
+)([]{}
+
+
+false
+CASE 6
+8
+{[]}(23)
+
+
+ture
+CASE 7
+5
+(292)
+
+
+true
